@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activities.MainActivity"
+    android:orientation="vertical">
+
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbarFrom"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="?attr/colorPrimary"
+        app:title="导航"
+        app:titleTextColor="@android:color/white">
+
+        <EditText
+            android:id="@+id/myEditText"
+            android:layout_width="230dp"
+            android:layout_height="wrap_content"
+            android:hint="@string/search"
+            android:theme="@style/MyEditText"
+            android:maxLines="1"
+            android:singleLine="true"
+            android:gravity="right"
+            android:focusable="false"
+            android:textColorHint="@android:color/darker_gray"/>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <org.osmdroid.views.MapView
+        android:id="@+id/map_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</LinearLayout>

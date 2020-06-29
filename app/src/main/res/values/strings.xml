@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">tab design</string>
+    <string name="search">查找</string>
+    <string name="shortestRoute">搜索可达公交线路</string>
+    <string name="searchRoutes">搜索最短路径</string>
+    <string name="searchButton">搜索</string>
+    <string name="frombusstop">出发</string>
+    <string name="tobusstop">终点</string>
+    <string name="result">显示结果</string>
+    <string name="tab_text_1">公交路径查询</string>
+    <string name="tab_text_2">汽车路径查询</string>
+
+    <string-array name="stopsname">
+        <item>大学城中部枢纽总站</item>
+        <item>广大公寓</item>
+        <item>广大生活区</item>
+        <item>广大</item>
+        <item>华师</item>
+        <item>星海学院</item>
+        <item>地铁大学城北站</item>
+        <item>风茂街</item>
+        <item>大学城科学中心总站</item>
+        <item>广大正门</item>
+        <item>中部枢纽</item>
+        <item>北亭村大街</item>
+        <item>大学城广中医总站</item>
+        <item>广药路</item>
+        <item>华工生活区</item>
+        <item>华工</item>
+        <item>综合商业南区</item>
+        <item>广工</item>
+        <item>中环西路</item>
+        <item>美术学院</item>
+        <item>市国家档案馆南（大学城）</item>
+        <item>大学城客运中心总站</item>
+        <item>广美生活区</item>
+        <item>广美路</item>
+        <item>省中医院大学城医院</item>
+        <item>华工北路东</item>
+        <item>华工北路（南国会国家会议中心）</item>
+        <item>广外正门</item>
+        <item>中环东路（高高新天地）</item>
+        <item>中大</item>
+        <item>广大附小</item>
+        <item>内环西路</item>
+        <item>国医东路</item>
+        <item>外环西路总站（北亭广场）（终）</item>
+        <item>外环西路总站（北亭广场）（起）</item>
+        <item>广中医路路口</item>
+        <item>广中医路</item>
+        <item>广药生活区</item>
+        <item>内环东路</item>
+        <item>中心南大街</item>
+        <item>地铁大学城北站总站（综合商业北区）</item>
+        <item>综合商业北区</item>
+        <item>岭南印象园总站</item>
+        <item>广工一路</item>
+        <item>地铁大学城南站</item>
+        <item>国医西路</item>
+        <item>南亭村口</item>
+        <item>大学城南亭村总站</item>
+        <item>大学城穗石村总站</item>
+    </string-array>
+</resources>
